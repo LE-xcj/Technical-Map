@@ -8,4 +8,4 @@
 ### 练习项目
 [GitHub上SpringCloud的练习项目](https://github.com/LE-xcj/springcloud-making)
 
-![SpringCloud组件学习导图](./images/SpringCloud.png)
+![SpringCloud组件学习导图](./images/SpringCloud组件学习.png)
